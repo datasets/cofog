@@ -1,0 +1,515 @@
+Code,Description,ExplanatoryNote,Change_date
+"01","General public services","",""
+"01.1","Executive and legislative organs, financial and fiscal affairs, external affairs","",""
+"01.1.1","Executive and legislative organs  (CS)","- Administration, operation or support of executive and legislative organs.
+Includes:  office of the chief executive at all levels of government - office of the monarch, governor-general, president, prime minister, governor, mayor, etc.;  legislative bodies at all levels of government - parliaments, chambers of deputies, senates, assemblies, town councils, etc.;  advisory, administrative and political staffs attached to chief executive offices and legislatures;  libraries and other reference services serving mainly executive and legislative organs;  physical amenities provided to the chief executive, the legislature and their aides;  permanent or ad hoc commissions and committees created by or acting on behalf of the chief executive or legislature.
+Excludes:  ministerial offices, offices of heads of departments of local governments, interdepartmental committees, etc. concerned with a specific function (classified according to function).",""
+"01.1.2","Financial and fiscal affairs  (CS)","- Administration of financial and fiscal affairs and services;  management of public funds and public debt;  operation of taxation schemes;
+- operation of the treasury or ministry of finance, the budget office, the inland revenue agency, the customs authorities, the accounting and auditing services;
+- production and dissemination of general information, technical documentation and statistics on financial and fiscal affairs and services.
+Includes:  financial and fiscal affairs and services at all levels of government.
+Excludes:  underwriting or flotation charges and interest payments on government loans (01.7.0);  supervision of the banking industry (04.1.1).",""
+"01.1.3","External affairs  (CS)","- Administration of external affairs and services;
+- operation of the ministry of external affairs and diplomatic and consular missions stationed abroad or at offices of international organizations;  operation or support of information and cultural services for distribution beyond national boundaries;  operation or support of libraries, reading rooms and reference services located abroad;
+- regular subscriptions and special contributions to meet general operating expenses of international organizations.
+Excludes:  economic aid to developing countries and countries in transition (01.2.1);  economic aid missions accredited to foreign governments (01.2.1);  contributions to aid programmes administered by international or regional organizations (01.2.2);  military units stationed abroad (02.1.0);  military aid to foreign countries (02.3.0);  general foreign economic and commercial affairs (04.1.1);  tourism affairs and services (04.7.3).",""
+"01.2","Foreign economic aid","",""
+"01.2.1","Economic aid to developing countries and countries in transition  (CS)","- Administration of economic cooperation with developing countries and countries in transition;
+- operation of economic aid missions accredited to foreign governments;  operation or support of technical assistance programmes, training programmes and fellowship and scholarship schemes;
+- economic aid in the form of grants (in cash or in kind) or loans (regardless of interest charged).
+Excludes:  contributions to economic development funds administered by international or regional organizations (01.2.2);  military aid to foreign countries (02.3.0).",""
+"01.2.2","Economic aid routed through international organizations  (CS)","- Administration of economic aid routed through international organizations;
+- contributions in cash or in kind to economic development funds administered by international, regional or other multinational organizations.
+Excludes:  aid to international peacekeeping operations (02.3.0).",""
+"01.3","General services","This group covers services that are not connected with a specific function and which are usually undertaken by central offices at the various levels of government.  It also covers those services connected with a particular function that are undertaken by such central offices.  For example, the compilation of industry, environment, health or education statistics by a central statistical agency is included here.",""
+"01.3.1","General personnel services  (CS)","- Administration and operation of general personnel services, including development and implementation of general personnel policies and procedures covering selection, promotion, rating methods, the description, evaluation and classification of jobs, the administration of civil service regulations and similar matters.
+Excludes:  personnel administration and services connected with a specific function (classified according to function).",""
+"01.3.2","Overall planning and statistical services  (CS)","- Administration and operation of overall economic and social planning services and of overall statistical services, including formulation, coordination and monitoring of overall economic and social plans and programmes and of overall statistical plans and programmes.
+Excludes:  economic and social planning services and statistical services connected with a specific function (classified according to function).",""
+"01.3.3","Other general services  (CS)","- Administration and operation of other general services such as centralized supply and purchasing services, maintenance and storage of government records and archives, operation of government owned or occupied buildings, central motor vehicle pools, government operated printing offices, centralized computer and data processing services, etc.
+Excludes:  other general services connected with a specific function (classified according to function).",""
+"01.4","Basic research","Basic research is experimental or theoretical work undertaken primarily to acquire new knowledge of the underlying foundations of phenomena and observable facts, without any particular application or use in view.",""
+"01.4.0","Basic research  (CS)","- Administration and operation of government agencies engaged in basic research;
+- grants, loans or subsidies to support basic research undertaken by non-government bodies such as research institutes and universities.
+Excludes:  applied research and experimental development (classified by function).",""
+"01.5","R&D General public services","Applied research is original investigation undertaken in order to acquire new knowledge, but directed primarily towards a specific practical aim or objective.
+Experimental development is systematic work, drawing on existing knowledge gained from research and practical experience, that is directed to producing new materials, products and devices;  to installing new processes, systems and services;  or to improving substantially those already produced or installed.",""
+"01.5.0","R&D General public services  (CS)","- Administration and operation of government agencies engaged in applied research and experimental development related to general public services;
+- grants, loans or subsidies to support applied research and experimental development related to general public services undertaken by non-government bodies such as research institutes and universities.
+Excludes:  basic research (01.4.0).",""
+"01.6","General public services n.e.c.","",""
+"01.6.0","General public services n.e.c.  (CS)","- Administration, operation or support of general public services such as registration of voters, holding of elections and referendums, administration of non-self-governing and trust territories, etc.
+Includes:  general public services that cannot be assigned to (01.1), (01.2), (01.3), (01.4) or (01.5).
+Excludes:  public debt transactions (01.7);  transfers of a general character between different levels of government (01.8).",""
+"01.7","Public debt transactions","",""
+"01.7.0","Public debt transactions  (CS)","- Interest payments and outlays for underwriting and floating government loans.
+Excludes:  administrative costs of public debt management (01.1.2).",""
+"01.8","Transfers of a general character between different levels of government","",""
+"01.8.0","Transfers of a general character between different levels of government  (CS)","- Transfers between different levels of government that are of a general character and not allocated to a particular function.",""
+"02","Defence","",""
+"02.1","Military defence","",""
+"02.1.0","Military defence  (CS)","- Administration of military defence affairs and services;
+- operation of land, sea, air and space defence forces;  operation of engineering, transport, communication, intelligence, personnel and other non-combat defence forces;  operation or support of reserve and auxiliary forces of the defence establishment.
+Includes:  offices of military attachés stationed abroad;  field hospitals.
+Excludes:  military aid missions (02.3.0);  base hospitals (07.3);  military schools and colleges where curricula resemble those of civilian institutions even though attendance may be limited to military personnel and their families (09.1), (09.2), (09.3) or (09.4);  pension schemes for military personnel (10.2).",""
+"02.2","Civil defence","",""
+"02.2.0","Civil defence  (CS)","- Administration of civil defence affairs and services;  formulation of contingency plans;  organization of exercises involving civilian institutions and populations;
+- operation or support of civil defence forces.
+Excludes:  civil protection services (03.2.0);  purchase and storage of food, equipment and other supplies for emergency use in the case of peacetime disasters (10.9.0).",""
+"02.3","Foreign military aid","",""
+"02.3.0","Foreign military aid  (CS)","- Administration of military aid and operation of military aid missions accredited to foreign governments or attached to international military organizations or alliances;
+- military aid in the form of grants (in cash or in kind), loans (regardless of interest charged) or loans of equipment;  contributions to international peacekeeping forces including the assignment of manpower.",""
+"02.4","R&D Defence","Definitions of basic research, applied research and experimental development are given under (01.4) and (01.5).",""
+"02.4.0","R&D Defence  (CS)","- Administration and operation of government agencies engaged in applied research and experimental development related to defence;
+- grants, loans or subsidies to support applied research and experimental development related to defence undertaken by non-government bodies such as research institutes and universities.
+Excludes:  basic research (01.4.0).",""
+"02.5","Defence n.e.c.","",""
+"02.5.0","Defence n.e.c.  (CS)","- Administration, operation or support of activities such as formulation, administration, coordination and monitoring of overall policies, plans, programmes and budgets relating to defence;  preparation and enforcement of legislation relating to defence;  production and dissemination of general information, technical documentation and statistics on defence;  etc.
+Includes:  defence affairs and services that cannot be assigned to (02.1), (02.2), (02.3) or (02.4).
+Excludes:  administration of war veterans' affairs (10.2).",""
+"03","Public order and safety","",""
+"03.1","Police services","",""
+"03.1.0","Police services  (CS)","- Administration of police affairs and services, including alien registration, issuing work and travel documents to immigrants, maintenance of arrest records and statistics related to police work, road traffic regulation and control, prevention of smuggling and control of offshore and ocean fishing;
+- operation of regular and auxiliary police forces, of port, border and coast guards, and of other special police forces maintained by public authorities;  operation of police laboratories;  operation or support of police training programmes.
+Includes:  traffic wardens.
+Excludes:  police colleges offering general education in addition to police training (09.1), (09.2), (09.3) or (09.4).",""
+"03.2","Fire-protection services","",""
+"03.2.0","Fire-protection services  (CS)","- Administration of fire-prevention and fire-fighting affairs and services;
+- operation of regular and auxiliary fire brigades and of other fire-prevention and fire-fighting services maintained by public authorities;  operation or support of fire-prevention and fire-fighting training programmes.
+Includes:  civil protection services such as mountain rescue, beach surveillance, evacuation of flooded areas, etc.
+Excludes:  civil defence (02.2.0);  forces especially trained and equipped for fighting or preventing forest fires (04.2.2).",""
+"03.3","Law courts","",""
+"03.3.0","Law courts  (CS)","- Administration, operation or support of civil and criminal law courts and the judicial system, including enforcement of fines and legal settlements imposed by the courts and operation of parole and probation systems;
+- legal representation and advice on behalf of government or on behalf of others provided by government in cash or in services.
+Includes:  administrative tribunals, ombudsmen and the like.
+Excludes:  prison administration (03.4.0).",""
+"03.4","Prisons","",""
+"03.4.0","Prisons  (CS)","- Administration, operation or support of prisons and other places for the detention or rehabilitation of criminals such as prison farms, workhouses, reformatories, borstals, asylums for the criminally insane, etc.",""
+"03.5","R&D Public order and safety","Definitions of basic research, applied research and experimental development are given under (01.4) and (01.5).",""
+"03.5.0","R&D Public order and safety  (CS)","- Administration and operation of government agencies engaged in applied research and experimental development related to public order and safety;
+- grants, loans or subsidies to support applied research and experimental development related to public order and safety undertaken by non-government bodies such as research institutes and universities.
+Excludes:  basic research (01.4.0).",""
+"03.6","Public order and safety n.e.c.","",""
+"03.6.0","Public order and safety n.e.c.  (CS)","- Administration, operation or support of activities such as formulation, administration, coordination and monitoring of overall policies, plans, programmes and budgets relating to public order and safety;  preparation and enforcement of legislation and standards for the provision of public order and safety;  production and dissemination of general information, technical documentation and statistics on public order and safety.
+Includes:  public order and safety affairs and services that cannot be assigned to (03.1), (03.2), (03.3), (03.4) or (03.5).",""
+"04","Economic affairs","",""
+"04.1","General economic, commercial and labour affairs","",""
+"04.1.1","General economic and commercial affairs  (CS)","- Administration of general economic and commercial affairs and services, including general foreign commercial affairs;  formulation and implementation of general economic and commercial policies;  liaison among different branches of government and between government and business;
+- regulation or support of general economic and commercial activities such as export and import trade as a whole, commodity and equity markets, overall income controls, general trade promotion activities, general regulation of monopolies and other restraints on trade and market entry, etc.;  supervision of the banking industry;
+- operation or support of institutions dealing with patents, trademarks, copyrights, company registration, weather forecasting, standards, hydrologic surveys, geodesic surveys, etc.;
+- grants, loans or subsidies to promote general economic and commercial policies and programmes.
+Includes:  consumer education and protection.
+Excludes:  economic and commercial affairs of a particular industry (classified to (04.2) through (04.7) as appropriate).",""
+"04.1.2","General labour affairs  (CS)","- Administration of general labour affairs and services;  formulation and implementation of general labour policies;  supervision and regulation of labour conditions (hours of work, wages, safety, etc.);  liaison among different branches of government and between government and overall industrial, business and labour organizations;
+- operation or support of general programmes or schemes to facilitate labour mobility, to reduce sex, race, age and other discrimination, to reduce the rate of unemployment in distressed or underdeveloped regions, to promote the employment of disadvantaged or other groups characterized by high unemployment rates, etc.;  operation of labour exchanges;  operation or support of arbitration and mediation services;
+- production and dissemination of general information, technical documentation and statistics on general labour affairs and services;
+- grants, loans or subsidies to promote general labour policies and programmes.
+- Excludes:  labour affairs of a particular industry (classified to (04.2) through (04.7) as appropriate);  provision of social protection in the form of cash benefits and benefits in kind to persons who are unemployed (10.5.0).",""
+"04.2","Agriculture, forestry, fishing and hunting","",""
+"04.2.1","Agriculture  (CS)","- Administration of agricultural affairs and services;  conservation, reclamation or expansion of arable land;  agrarian reform and land settlement;  supervision and regulation of the agricultural industry;
+- construction or operation of flood control, irrigation and drainage systems, including grants, loans or subsidies for such works;
+- operation or support of programmes or schemes to stabilize or improve farm prices and farm incomes;  operation or support of extension services or veterinary services to farmers, pest control services, crop inspection services and crop grading services;
+- production and dissemination of general information, technical documentation and statistics on agricultural affairs and services;
+- compensation, grants, loans or subsidies to farmers in connection with agricultural activities, including payments for restricting or encouraging output of a particular crop or for allowing land to remain uncultivated.
+Excludes:  multi-purpose development projects (04.7.4).",""
+"04.2.2","Forestry  (CS)","- Administration of forestry affairs and services;  conservation, extension and rationalized exploitation of forest reserves;  supervision and regulation of forest operations and issuance of tree-felling licences;
+- operation or support of reforestation work, pest and disease control, forest fire-fighting and fire prevention services and extension services to forest operators;
+- production and dissemination of general information, technical documentation and statistics on forestry affairs and services;
+- grants, loans or subsidies to support commercial forest activities.
+Includes:  forest crops in addition to timber.",""
+"04.2.3","Fishing and hunting  (CS)","This class covers both commercial fishing and hunting, and fishing and hunting for sport.  The fishing and hunting affairs and services listed below refer to activities that take place outside natural parks and reserves.
+- Administration of fishing and hunting affairs and services;  protection, propagation and rationalized exploitation of fish and wildlife stocks;  supervision and regulation of freshwater fishing, coastal fishing, ocean fishing, fish farming, wildlife hunting and issuance of fishing and hunting licences;
+- operation or support of fish hatcheries, extension services, stocking or culling activities, etc.;
+- production and dissemination of general information, technical documentation and statistics on fishing and hunting affairs and services;
+- grants, loans or subsidies to support commercial fishing and hunting activities, including the construction or operation of fish hatcheries.
+Excludes:  control of offshore and ocean fishing (03.1.0);  administration, operation or support of natural parks and reserves (05.4.0).",""
+"04.3","Fuel and energy","",""
+"04.3.1","Coal and other solid mineral fuels  (CS)","This class covers coal of all grades, lignite and peat irrespective of the method used in their extraction or beneficiation and the conversion of these fuels to other forms such as coke or gas.
+- Administration of solid mineral fuel affairs and services;  conservation, discovery, development and rationalized exploitation of solid mineral fuel resources;  supervision and regulation of the extraction, processing, distribution and use of solid mineral fuels;
+- production and dissemination of general information, technical documentation and statistics on solid mineral fuel affairs and services;
+- grants, loans or subsidies to support the solid mineral fuel industry and the coke, briquette or manufactured gas industries.
+Excludes:  solid mineral fuel transportation affairs (classified to the appropriate class of group 04.5).",""
+"04.3.2","Petroleum and natural gas  (CS)","This class covers natural gas, liquefied petroleum gases and refinery gases, oil from wells or other sources such as shale or tar sands and the distribution of town gas regardless of its composition.
+- Administration of petroleum and natural gas affairs and services;  conservation, discovery, development and rationalized exploitation of petroleum and natural gas resources;  supervision and regulation of the extraction, processing, distribution and use of petroleum and natural gas;
+- production and dissemination of general information, technical documentation and statistics on petroleum and natural gas affairs and services;
+- grants, loans or subsidies to support the petroleum extraction industry and the industry refining crude petroleum and related liquid and gaseous products.
+Excludes:  petroleum or gas transportation affairs (classified to the appropriate class of group 04.5).",""
+"04.3.3","Nuclear fuel  (CS)","- Administration of nuclear fuel affairs and services;  conservation, discovery, development and rationalized exploitation of nuclear material resources;  supervision and regulation of the extraction and processing of nuclear fuel materials and of the manufacture, distribution and use of nuclear fuel elements;
+- production and dissemination of general information, technical documentation and statistics on nuclear fuel affairs and services;
+- grants, loans or subsidies to support the nuclear materials mining industry and the industries processing such materials.
+Excludes:  nuclear fuel transportation affairs (classified to the appropriate class of group 04.5);  disposal of radioactive wastes (05.1.0).",""
+"04.3.4","Other fuels  (CS)","- Administration of affairs and services involving fuels such as alcohol, wood and wood wastes, bagasse and other non-commercial fuels;
+- production and dissemination of general information, technical documentation and statistics on availability, production and utilization of such fuels;
+- grants, loans or subsidies to promote the use of such fuels for the production of energy.
+Excludes:  forest management (04.2.2);  wind and solar heat (04.3.5) or (04.3.6);  geothermal resources (04.3.6).",""
+"04.3.5","Electricity  (CS)","This class covers both traditional sources of electricity such as thermal or hydro supplies and newer sources such as wind or solar heat.
+- Administration of electricity affairs and services;  conservation, development and rationalized exploitation of electricity supplies;  supervision and regulation of the generation, transmission and distribution of electricity;
+- construction or operation of non-enterprise-type electricity supply systems;
+- production and dissemination of general information, technical documentation and statistics on electricity affairs and services;
+- grants, loans or subsidies to support the electricity supply industry, including such outlays for the construction of dams and other works designed chiefly to provide electricity.
+Excludes:  non-electric energy produced by wind or solar heat (04.3.6).",""
+"04.3.6","Non-electric energy  (CS)","- Administration of non-electric energy affairs and services which chiefly concern the production, distribution and utilization of heat in the form of steam, hot water or hot air;
+- construction or operation of non-enterprise-type systems supplying non-electric energy;
+- production and dissemination of general information, technical documentation and statistics on availability, production and utilization of non-electric energy;
+- grants, loans or subsidies to promote the use of non-electric energy.
+Includes:  geothermal resources;  non-electric energy produced by wind or solar heat.",""
+"04.4","Mining, manufacturing and construction","",""
+"04.4.1","Mining of mineral resources other than mineral fuels  (CS)","This class covers metal-bearing minerals, sand, clay, stone, chemical and fertilizer minerals, salt, gemstones, asbestos, gypsum, etc.
+- Administration of mining and mineral resource affairs and services;  conservation, discovery, development and rationalized exploitation of mineral resources;  supervision and regulation of prospecting, mining, marketing and other aspects of mineral production;
+- production and dissemination of general information, technical documentation and statistics on mining and mineral resource affairs and services;
+- grants, loans or subsidies to support commercial mining activities.
+Includes:  issuance of licences and leases, regulation of production rates, inspection of mines for conformity to safety regulations, etc.
+Excludes:  coal and other solid fuels (04.3.1), petroleum and natural gas (04.3.2) and nuclear fuel materials (04.3.3).",""
+"04.4.2","Manufacturing  (CS)","- Administration of manufacturing affairs and services;  development, expansion or improvement of manufacturing;  supervision and regulation of the establishment and operation of manufacturing plants;  liaison with manufacturers' associations and other organizations interested in manufacturing affairs and services;
+- production and dissemination of general information, technical documentation and statistics on manufacturing activities and manufactured products;
+- grants, loans or subsidies to support manufacturing enterprises.
+Includes:  inspection of manufacturing premises for conformity with safety regulations, protection of consumers against dangerous products, etc.
+Excludes:  affairs and services concerning the coal processing industry (04.3.1), the petroleum refinery industry (04.3.2) or the nuclear fuel industry (04.3.3).",""
+"04.4.3","Construction  (CS)","- Administration of construction affairs and services;  supervision of the construction industry;  development and regulation of construction standards;
+- production and dissemination of general information, technical documentation and statistics on construction affairs and services.
+Includes:  issuance of certificates permitting occupancy, inspection of construction sites for conformity with safety regulations, etc.
+Excludes:  grants, loans and subsidies for the construction of housing, industrial buildings, streets, public utilities, cultural facilities, etc. (classified according to function);  development and regulation of housing standards (06.1.0).",""
+"04.5","Transport","",""
+"04.5.1","Road transport  (CS)","- Administration of affairs and services concerning operation, use, construction and maintenance of road transport systems and facilities (roads, bridges, tunnels, parking facilities, bus terminals, etc.);
+- supervision and regulation of road users (vehicle and driver licensing, vehicle safety inspection, size and load specifications for passenger and freight road transport, regulation of hours of work of bus, coach and lorry drivers, etc.), of road transport system operations (granting of franchises, approval of freight tariffs and passenger fares and of hours and frequency of service, etc.) and of road construction and maintenance;
+- construction or operation of non-enterprise-type road transport systems and facilities;
+- production and dissemination of general information, technical documentation and statistics on road transport system operations and on road construction activities;
+- grants, loans or subsidies to support the operation, construction, maintenance or upgrading of road transport systems and facilities.
+Includes:  highways, urban roads, streets, bicycle paths and footpaths.
+Excludes:  road traffic control (03.1.0);  grants, loans and subsidies to road vehicle manufacturers (04.4.2);  street cleaning (05.1.0);  construction of noise embankments, hedges and other anti-noise facilities including the resurfacing of sections of urban highways with noise reducing surfaces (05.3.0);  street lighting (06.4.0).",""
+"04.5.2","Water transport  (CS)","- Administration of affairs and services concerning operation, use, construction and maintenance of inland, coastal and ocean water transport systems and facilities (harbours, docks, navigation aids and equipment, canals, bridges, tunnels, channels, breakwaters, piers, wharves, terminals, etc.);
+- supervision and regulation of water transport users (registration, licensing and inspection of vessels and crews, regulations concerning passenger safety and freight security, etc.), of water transport system operations (granting of franchises, approval of freight tariffs and passenger fares and of hours and frequency of service, etc.) and of water transport facility construction and maintenance;
+- construction or operation of non-enterprise-type water transport systems and facilities (such as ferries);
+- production and dissemination of general information, technical documentation and statistics on water transport system operations and on water transport facility construction activities;
+- grants, loans or subsidies to support the operation, construction, maintenance or upgrading of water transport systems and facilities.
+Includes:  radio and satellite navigation aids;  emergency rescue and towing services.
+Excludes:  grants, loans and subsidies to shipbuilders (04.4.2).",""
+"04.5.3","Railway transport  (CS)","- Administration of affairs and services concerning operation, use, construction or maintenance of railway transport systems and facilities (railway roadbeds, terminals, tunnels, bridges, embankments, cuttings, etc.);
+- supervision and regulation of railway users (rolling stock condition, roadbed stability, passenger safety, security of freight, etc.), of railway transport system operations (granting of franchises, approval of freight tariffs and passenger fares and of hours and frequency of service, etc.) and of railway construction and maintenance;
+- construction or operation of non-enterprise-type railway transport systems and facilities;
+- production and dissemination of general information, technical documentation and statistics on railway transport system operations and on railway construction activities;
+- grants, loans or subsidies to support the operation, construction, maintenance or upgrading of railway transport systems and facilities.
+Includes:  long-line and interurban railway transport systems, urban rapid transit railway transport systems and street railway transport systems;  acquisition and maintenance of rolling stock.
+Excludes:  grants, loans and subsidies to rolling stock manufacturers (04.4.2);  construction of noise embankments, hedges and other anti-noise facilities including the resurfacing of sections of railways with noise reducing surfaces (05.3.0).",""
+"04.5.4","Air transport  (CS)","- Administration of affairs and services concerning operation, use, construction and maintenance of air transport systems and facilities (airports, runways, terminals, hangars, navigation aids and equipment, air control amenities, etc.);
+- supervision and regulation of air transport users (registration, licensing and inspection of aircraft, pilots, crews, ground crews, regulations concerning passenger safety, investigation of air transport accidents, etc.), of air transport system operations (allocation of routes, approval of freight tariffs and passenger fares and of frequency and levels of service, etc.) and of air transport facility construction and maintenance;
+- construction or operation of non-enterprise-type public air transport services and facilities;
+- production and dissemination of general information, technical documentation and statistics on air transport system operations and on air transport facility construction;
+- grants, loans or subsidies to support the operation, construction, maintenance or upgrading of air transport systems and facilities.
+Includes:  radio and satellite navigation aids;  emergency rescue services;  scheduled and non-scheduled freight and passenger services;  regulation and control of flying by private individuals.
+Excludes:  grants, loans and subsidies to aircraft manufacturers (04.4.2).",""
+"04.5.5","Pipeline and other transport  (CS)","- Administration of affairs and services concerning operation, use, construction and maintenance of pipeline and other transport systems (funiculars, cable cars, chairlifts, etc.);
+- supervision and regulation of users of pipeline and other transport systems (registration, licensing, inspection of equipment, operator skills and training;  safety standards, etc.);  of pipeline and other transport systems operations (granting of franchises, setting tariffs, frequency and levels of service, etc.) and of pipeline and other transport systems construction and maintenance;
+- construction or operation of non-enterprise-type pipeline and other transport systems;
+- production and dissemination of general information, technical documentation and statistics on the operation and construction of pipeline and other transport systems;
+- grants, loans or subsidies to support the operation, construction, maintenance or upgrading of pipeline and other transport systems.",""
+"04.6","Communication","",""
+"04.6.0","Communication  (CS)","- Administration of affairs and services concerning construction, extension, improvement, operation and maintenance of communication systems (postal, telephone, telegraph, wireless and satellite communication systems);
+- regulation of communication system operations (granting of franchises;  assignment of frequencies, specification of markets to be served and tariffs to be charged, etc.);
+- production and dissemination of general information, technical documentation and statistics on communication affairs and services;
+- grants, loans or subsidies to support the construction, operation, maintenance or upgrading of communication systems.
+Excludes:  radio and satellite navigation aids for water transport (04.5.2) and air transport (04.5.4);  radio and television broadcasting systems (08.3.0).",""
+"04.7","Other industries","",""
+"04.7.1","Distributive trades, storage and warehousing  (CS)","- Administration of affairs and services concerning the distributive trade and the storage and warehousing industry;
+- supervision and regulation of wholesale and retail trade (licensing, sales practices, labelling of packaged food and other goods intended for household consumption, inspection of scales and other weighing machines, etc.) and of the storage and warehousing industry (including licensing and control of government-bonded warehouses, etc.);
+- administration of price control and rationing schemes operating through retailers or wholesalers regardless of the type of goods involved or intended consumer;  administration and provision of food and other such subsidies to the general public;
+- production and dissemination of information to the trade and to the public on prices, on the availability of goods and on other aspects of the distributive trade and the storage and warehousing industry;  compilation and publication of statistics on the distributive trade and the storage and warehousing industry;
+- grants, loans or subsidies to support the distributive trade and to the storage and warehousing industry.
+Excludes:  administration of price and other controls applied to the producer (classified according to function);  food and other such subsidies applicable to particular population groups or individuals (10).",""
+"04.7.2","Hotels and restaurants  (CS)","- Administration of affairs and services concerning construction, extension, improvement, operation and maintenance of hotels and restaurants;
+- supervision and regulation of hotel and restaurant operations (regulations governing prices, cleanliness and sales practices, hotel and restaurant licensing, etc.);
+- production and dissemination of general information, technical documentation and statistics on hotel and restaurant affairs and services;
+- grants, loans or subsidies to support the construction, operation, maintenance or upgrading of hotels and restaurants.",""
+"04.7.3","Tourism  (CS)","- Administration of tourism affairs and services;  promotion and development of tourism;  liaison with the transport, hotel and restaurant industries and other industries benefiting from the presence of tourists;
+- operation of tourist offices at home and abroad, etc.;  organization of advertising campaigns, including the production and dissemination of promotional literature and the like;
+- compilation and publication of statistics on tourism.",""
+"04.7.4","Multi-purpose development projects  (CS)","Multi-purpose development projects typically consist of integrated facilities for generation of power, flood control, irrigation, navigation and recreation.
+- Administration of affairs and services concerning construction, extension, improvement, operation and maintenance of multi-purpose projects;
+- production and dissemination of general information, technical documentation and statistics on multi-purpose development project affairs and services;
+- grants, loans or subsidies to support the construction, operation, maintenance or upgrading of multi-purpose development projects;
+Excludes:  projects with one main function and other functions that are secondary (classified according to main function).",""
+"04.8","R&D Economic affairs","Definitions of basic research, applied research and experimental development are given under (01.4) and (01.5).",""
+"04.8.1","R&D General economic, commercial and labour affairs  (CS)","- Administration and operation of government agencies engaged in applied research and experimental development related to general economic, commercial and labour affairs;
+- grants, loans or subsidies to support applied research and experimental development related to general economic, commercial and labour affairs undertaken by non-government bodies such as research institutes and universities.
+Excludes:  basic research (01.4.0).",""
+"04.8.2","R&D Agriculture, forestry, fishing and hunting  (CS)","- Administration and operation of government agencies engaged in applied research and experimental development related to agriculture, forestry, fishing and hunting;
+- grants, loans or subsidies to support applied research and experimental development related to agriculture, forestry, fishing and hunting undertaken by non-government bodies such as research institutes and universities.
+Excludes:  basic research (01.4.0).",""
+"04.8.3","R&D Fuel and energy  (CS)","- Administration and operation of government agencies engaged in applied research and experimental development related to fuel and energy;
+- grants, loans or subsidies to support applied research and experimental development related to fuel and energy undertaken by non-government bodies such as research institutes and universities.
+Excludes:  basic research (01.4.0).",""
+"04.8.4","R&D Mining, manufacturing and construction  (CS)","- Administration and operation of government agencies engaged in applied research and experimental development related to mining, manufacturing and construction;
+- grants, loans or subsidies to support applied research and experimental development related to mining, manufacturing and construction undertaken by non-government bodies such as research institutes and universities.
+Excludes:  basic research (01.4.0).",""
+"04.8.5","R&D Transport  (CS)","- Administration and operation of government agencies engaged in applied research and experimental development related to transport;
+- grants, loans or subsidies to support applied research and experimental development related to transport undertaken by non-government bodies such as research institutes and universities.
+Excludes:  basic research (01.4.0).",""
+"04.8.6","R&D Communication  (CS)","- Administration and operation of government agencies engaged in applied research and experimental development related to communication;
+- grants, loans or subsidies to support applied research and experimental development related to communication undertaken by non-government bodies such as research institutes and universities.
+Excludes:  basic research (01.4.0).",""
+"04.8.7","R&D Other industries  (CS)","- Administration and operation of government agencies engaged in applied research and experimental development related to other sectors;
+- grants, loans or subsidies to support applied research and experimental development related to other sectors undertaken by non-government bodies such as research institutes and universities.
+Includes:  distributive trades, storage and warehousing;  hotels and restaurants;  tourism and multi-purpose development projects.
+Excludes:  basic research (01.4.0).",""
+"04.9","Economic affairs n.e.c.","",""
+"04.9.0","Economic affairs n.e.c.  (CS)","- Administration, operation or support activities relating to general and sectoral economic affairs that cannot be assigned to (04.1), (04.2), (04.3), (04.4), (04.5), (04.6), (04.7) or (04.8).",""
+"05","Environmental protection","The breakdown of environmental protection is based upon the Classification of Environmental Protection Activities (CEPA) as elaborated in the European System for the Collection of Economic Information on the Environment (SERIEE) of the Statistical Office of the European Communities (Eurostat).",""
+"05.1","Waste management","This group covers collection, treatment and disposal of waste.
+Waste collection includes sweeping of streets, squares, paths, markets, public gardens, parks, etc.;  collection of all types of waste, whether selective by type of product or undifferentiated covering all waste, and their transport to place of treatment or discharge.
+Waste treatment includes any method or process designed to change the physical, chemical or biological character or composition of any waste so as to neutralize it, to render it non-hazardous, to make it safer for transport, to make it amenable for recovery or storage or to reduce it in volume.
+Waste disposal includes final placement of waste for which no further use is foreseen by landfill, containment, underground disposal, dumping at sea or any other relevant disposal method.",""
+"05.1.0","Waste management  (CS)","- Administration, supervision, inspection, operation or support of waste collection, treatment and disposal systems;
+- grants, loans or subsidies to support the operation, construction, maintenance or upgrading of such systems.
+Includes:  collection, treatment and disposal of nuclear waste.",""
+"05.2","Waste water management","This group covers sewage system operation and waste water treatment.
+Sewage system operation includes management and construction of the system of collectors, pipelines, conduits and pumps to evacuate any waste water (rainwater, domestic and other available waste water) from the points of generation to either a sewage treatment plant or to a point where waste water is discharged to surface water.
+Waste water treatment includes any mechanical, biological or advanced process to render waste water fit to meet applicable environment standards or other quality norms.",""
+"05.2.0","Waste water management  (CS)","- Administration, supervision, inspection, operation or support of sewage systems and waste water treatment;
+- grants, loans or subsidies to support the operation, construction, maintenance or upgrading of such systems.",""
+"05.3","Pollution abatement","This group covers activities relating to ambient air and climate protection, soil and groundwater protection, noise and vibration abatement and protection against radiation.
+These activities include construction, maintenance and operation of monitoring systems and stations (other than weather stations);  construction of noise embankments, hedges and other anti-noise facilities including the resurfacing of sections of urban highways or railways with noise reducing surfaces;  measures to clean pollution in water bodies;  measures to control or prevent the emissions of greenhouse gases and pollutants that adversely affect the quality of the air;  construction, maintenance and operation of installations for the decontamination of polluted soils and for the storage of pollutant products;  transportation of pollutant products.",""
+"05.3.0","Pollution abatement  (CS)","- Administration, supervision, inspection, operation or support of activities relating to pollution abatement and control;
+- grants, loans or subsidies to support activities relating to pollution abatement and control.",""
+"05.4","Protection of biodiversity and landscape","This group covers activities relating to the protection of fauna and flora species (including the reintroduction of extinct species and the recovery of species menaced by extinction), the protection of habitats (including the management of natural parks and reserves) and the protection of landscapes for their aesthetic values (including the reshaping of damaged landscapes for the purpose of strengthening their aesthetic value and the rehabilitation of abandoned mines and quarry sites).",""
+"05.4.0","Protection of biodiversity and landscape  (CS)","- Administration, supervision, inspection, operation or support of activities relating to the protection of biodiversity and landscape;
+- grants, loans or subsidies to support activities relating to the protection of biodiversity and landscape.",""
+"05.5","R&D Environmental protection","Definitions of basic research, applied research and experimental development are given under (01.4) and (01.5).",""
+"05.5.0","R&D Environmental protection  (CS)","- Administration and operation of government agencies engaged in applied research and experimental development related to environmental protection;
+- grants, loans or subsidies to support applied research and experimental development related to environmental protection undertaken by non-government bodies such as research institutes and universities.
+Excludes:  basic research (01.4.0).",""
+"05.6","Environmental protection n.e.c.","",""
+"05.6.0","Environmental protection n.e.c.  (CS)","- Administration, management, regulation, supervision, operation and support of activities such as formulation, administration, coordination and monitoring of overall policies, plans, programmes and budgets for the promotion of environmental protection;  preparation and enforcement of legislation and standards for the provision of environmental protection services;  production and dissemination of general information, technical documentation and statistics on environmental protection.
+Includes:  environmental protection affairs and services that cannot be assigned to (05.1), (05.2), (05.3), (05.4) or (05.5).",""
+"06","Housing and community amenities","",""
+"06.1","Housing development","",""
+"06.1.0","Housing development  (CS)","- Administration of housing development affairs and services;  promotion, monitoring and evaluation of housing development activities whether or not the activities are under the auspices of public authorities;  development and regulation of housing standards;
+- slum clearance related to provision of housing;  acquisition of land needed for construction of dwellings;  construction or purchase and remodelling of dwelling units for the general public or for people with special needs;
+- production and dissemination of public information, technical documentation and statistics on housing development affairs and services;
+- grants, loans or subsidies to support the expansion, improvement or maintenance of the housing stock.
+Excludes:  development and regulation of construction standards (04.4.3);  cash benefits and benefits in kind to help households meet the cost of housing (10.6.0).",""
+"06.2","Community development","",""
+"06.2.0","Community development  (CS)","- Administration of community development affairs and services;  administration of zoning laws and land-use and building regulations;
+- planning of new communities or of rehabilitated communities;  planning the improvement and development of facilities such as housing, industry, public utilities, health, education, culture, recreation, etc. for communities;  preparation of schemes for financing planned developments;
+- production and dissemination of general information, technical documentation and statistics on community development affairs and services.
+Excludes:  plan implementation, that is, the actual construction of housing, industrial buildings, streets, public utilities, cultural facilities, etc. (classified according to function);  agrarian reform and land resettlement (04.2.1);  administration of construction standards (04.4.3) and housing standards (06.1.0).",""
+"06.3","Water supply","",""
+"06.3.0","Water supply  (CS)","- Administration of water supply affairs;  assessment of future needs and determination of availability in terms of such assessment;  supervision and regulation of all facets of potable water supply including water purity, price and quantity controls;
+- construction or operation of non-enterprise-type of water supply systems;
+- production and dissemination of general information, technical documentation and statistics on water supply affairs and services;
+- grants, loans or subsidies to support the operation, construction, maintenance or upgrading of water supply systems.
+Excludes:  irrigation systems (04.2.1);  multi-purpose projects (04.7.4);  collection and treatment of waste water (05.2.0).",""
+"06.4","Street lighting","",""
+"06.4.0","Street lighting  (CS)","- Administration of street lighting affairs;  development and regulation of street lighting standards;
+- installation, operation, maintenance, upgrading, etc. of street lighting.
+Excludes:  lighting affairs and services associated with the construction and operation of highways (04.5.1).",""
+"06.5","R&D Housing and community amenities","Definitions of basic research, applied research and experimental development are given under (01.4) and (01.5).",""
+"06.5.0","R&D Housing and community amenities  (CS)","- Administration and operation of government agencies engaged in applied research and experimental development related to housing and community amenities;
+- grants, loans or subsidies to support applied research and experimental development related to housing and community amenities undertaken by non-government bodies such as research institutes and universities.
+Excludes:  basic research (01.4.0);  applied research and experimental development into construction methods or materials (04.8.4).",""
+"06.6","Housing and community amenities n.e.c.","",""
+"06.6.0","Housing and community amenities n.e.c.  (CS)","- Administration, operation or support of activities such as formulation, administration, coordination and monitoring of overall policies, plans, programmes and budgets relating to housing and community amenities;  preparation and enforcement of legislation and standards relating to housing and community amenities;  production and dissemination of general information, technical documentation and statistics relating to housing and community amenities.
+Includes:  administration, operation or support activities relating to housing and community amenities that cannot be assigned to (06.1), (06.2), (06.3), (06.4) or (06.5).",""
+"07","Health","Government outlays on health include expenditures on services provided to individual persons and services provided on a collective basis.  Expenditures on individual services are allocated to groups (07.1) through (07.4);  expenditures on collective services are assigned to groups (07.5) and (07.6).
+Collective health services are concerned with matters such as formulation and administration of government policy;  setting and enforcement of standards for medical and paramedical personnel and for hospitals, clinics, surgeries, etc.;  regulation and licensing of providers of health services;  and applied research and experimental development into medical and health-related matters.  However, overhead expenses connected with administration or functioning of a group of hospitals, clinics, surgeries, etc. are considered to be individual expenditures and are classified to groups (07.1) through (07.4) as appropriate.",""
+"07.1","Medical products, appliances and equipment","This group covers medicaments, prostheses, medical appliances and equipment and other health-related products obtained by individuals or households, either with or without a prescription, usually from dispensing chemists, pharmacists or medical equipment suppliers.  They are intended for consumption or use outside a health facility or institution.  Such products supplied directly to outpatients by medical, dental and paramedical practitioners or to in-patients by hospitals and the like are included in outpatient services (07.2) or hospital services (07.3).",""
+"07.1.1","Pharmaceutical products  (IS)","- Provision of pharmaceutical products such as medicinal preparations, medicinal drugs, patent medicines, serums and vaccines, vitamins and minerals, cod liver oil and halibut liver oil, oral contraceptives;
+- administration, operation or support of the provision of pharmaceutical products.",""
+"07.1.2","Other medical products  (IS)","- Provision of medical products such as clinical thermometers, adhesive and non-adhesive bandages, hypodermic syringes, first-aid kits, hot-water bottles and ice bags, medical hosiery items such as elasticated stockings and knee-pads, pregnancy tests, condoms and other mechanical contraceptive devices;
+- administration, operation or support of the provision of prescribed other medical products.",""
+"07.1.3","Therapeutic appliances and equipment  (IS)","- Provision of therapeutic appliances and equipment such as corrective eyeglasses and contact lenses, hearing aids, glass eyes, artificial limbs and other prosthetic devices, orthopaedic braces and supports, orthopaedic footwear, surgical belts, trusses and supports, neck braces, medical massage equipment and health lamps, powered and unpowered wheelchairs and invalid carriages, ""special"" beds, crutches, electronic and other devices for monitoring blood pressure, etc.;
+- administration, operation or support of the provision of prescribed therapeutic appliances and equipment.
+Includes:  dentures but not fitting costs;  repair of therapeutic appliances and equipment.
+Excludes:  hire of therapeutic equipment (07.2.4).",""
+"07.2","Outpatient services","This group covers medical, dental and paramedical services delivered to outpatients by medical, dental and paramedical practitioners and auxiliaries.  The services may be delivered at home, in individual or group consulting facilities, dispensaries or the outpatient clinics of hospitals and the like.
+Outpatient services include the medicaments, prostheses, medical appliances and equipment and other health-related products supplied directly to outpatients by medical, dental and paramedical practitioners and auxiliaries.
+Medical, dental and paramedical services provided to in-patients by hospitals and the like are included in hospital services (07.3).",""
+"07.2.1","General medical services  (IS)","This class covers the services provided by general medical clinics and general medical practitioners.
+General medical clinics are defined as institutions which chiefly provide outpatient services which are not limited to a particular medical speciality and which are chiefly delivered by qualified medical doctors.  General medical practitioners do not specialize in a particular medical speciality.
+- Provision of general medical services;
+- administration, inspection, operation or support of general medical services delivered by general medical clinics and general medical practitioners.
+Excludes:  services of medical analysis laboratories and x-ray centres (07.2.4).",""
+"07.2.2","Specialized medical services  (IS)","This class covers the services of specialized medical clinics and specialist medical practitioners.
+Specialized medical clinics and specialist medical practitioners differ from general medical clinics and general medical practitioners in that their services are limited to treatment of a particular condition, disease, medical procedure or class of patient.
+- Provision of specialized medical services;
+- administration, inspection, operation or support of specialized medical services delivered by specialized medical clinics and specialist medical practitioners.
+Includes:  services of orthodontic specialists.
+Excludes:  dental clinics and dentists (07.2.3); services of medical analysis laboratories and x-ray centres (07.2.4).",""
+"07.2.3","Dental services  (IS)","This class covers the services of general or specialist dental clinics and dentists, oral hygienists or other dental operating auxiliaries.
+Dental clinics provide outpatient services.  They are not necessarily supervised or staffed by dentists; they may be supervised or staffed by oral hygienists or by dental auxiliaries.
+- Provision of dental services to outpatients;
+- administration, inspection, operation and support of dental services delivered by general or specialist dental clinics and by dentists, oral hygienists or other dental auxiliaries.
+Includes:  fitting costs of dentures.
+Excludes:  dentures (07.1.3);  services of orthodontic specialists (07.2.2);  services of medical analysis laboratories and x-ray centres (07.2.4).",""
+"07.2.4","Paramedical services  (IS)","- Provision of paramedical health services to outpatients;
+- administration, inspection, operation or support of health services delivered by clinics supervised by nurses, midwives, physiotherapists, occupational therapists, speech therapists or other paramedical personnel and of health services delivered by nurses, midwives and paramedical personnel in non-consulting rooms, in patients' homes or other non-medical institutions.
+Includes:  acupuncturists, chiropodists, chiropractors, optometrists, practitioners of traditional medicine, etc.;  medical analysis laboratories and x-ray centres;  hire of therapeutic equipment;  medically prescribed corrective-gymnastic therapy;  outpatient thermal bath or sea-water treatments;  ambulance services other than ambulance services operated by hospitals.
+Excludes:  public health service laboratories (07.4.0);  laboratories engaged in determining the causes of disease (07.5.0).",""
+"07.3","Hospital services","Hospitalization is defined as occurring when a patient is accommodated in a hospital for the duration of the treatment.  Hospital day-care and home-based hospital treatment are included, as are hospices for terminally ill persons.
+This group covers the services of general and specialist hospitals, the services of medical centres, maternity centres, nursing homes and convalescent homes which chiefly provide in-patient services, the services of military base hospitals, the services of institutions serving old people in which medical monitoring is an essential component and the services of rehabilitation centres providing in-patient health care and rehabilitative therapy where the objective is to treat the patient rather than to provide long-term support.
+Hospitals are defined as institutions which offer in-patient care under direct supervision of qualified medical doctors.  Medical centres, maternity centres, nursing homes and convalescent homes also provide in-patient care but their services are supervised and frequently delivered by staff of lower qualification than medical doctors.
+The group does not cover facilities such as military field hospitals (02.1), surgeries, clinics and dispensaries devoted exclusively to outpatient care (07.2), institutions for disabled persons and rehabilitation centres providing primarily long-term support (10.1.2), retirement homes for elderly persons (10.2.0).  Neither does it cover payments to patients for loss of income due to hospitalization (10.1.1).
+Hospital services include medicaments, prostheses, medical appliances and equipment and other health-related products supplied to hospital patients.  It also includes non-medical expenditure of hospitals on administration, non-medical staff, food and drink, accommodation (including staff accommodation), etc.",""
+"07.3.1","General hospital services  (IS)","- Provision of general hospital services;
+- administration, inspection, operation or support of hospitals that do not limit their services to a particular medical speciality.
+Excludes:  medical centres not under the direct supervision of a qualified medical doctor (07.3.3).",""
+"07.3.2","Specialized hospital services  (IS)","Specialized hospitals differ from general hospitals in that their services are limited to treatment of a particular condition, disease, or class of patient, for example, diseases of the chest and tuberculosis, leprosy, cancer, otorhinolaryngology, psychiatry, obstetrics, paediatrics and so forth.
+- Provision of specialized hospital services;
+- administration, inspection, operation or support of hospitals that limit their services to a particular medical speciality.
+Excludes:  maternity centres not under the direct supervision of a qualified medical doctor (07.3.3).",""
+"07.3.3","Medical and maternity centre services  (IS)","- Provision of medical and maternity centre services;
+- administration, inspection, operation or support of medical and maternity centre services.",""
+"07.3.4","Nursing and convalescent home services  (IS)","Nursing and convalescent homes provide in-patient services to persons recovering from surgery or a debilitating disease or condition that requires chiefly monitoring and administering of medicaments, physiotherapy and training to compensate for loss of function or rest.
+- Provision of nursing and convalescent home services;
+- administration, inspection, operation or support of nursing and convalescent home services.
+Includes:  institutions serving old people in which medical monitoring is an essential component;  rehabilitation centres providing in-patient health care and rehabilitative therapy where the objective is to treat the patient rather than to provide long-term support.",""
+"07.4","Public health services","",""
+"07.4.0","Public health services  (IS)","- Provision of public health services;
+- administration, inspection, operation or support of public health services such as blood-bank operation (collecting, processing, storing, shipping), disease detection (cancer, tuberculosis, venereal disease), prevention (immunization, inoculation), monitoring (infant nutrition, child health), epidemiological data collection, family planning services and so forth;
+- preparation and dissemination of information on public health matters.
+Includes:  public health services delivered by special teams to groups of clients, most of whom are in good health, at workplaces, schools or other non-medical settings;  public health services not connected with a hospital, clinic or practitioner;  public health services not delivered by medically qualified doctors;  public health service laboratories.
+Excludes:  medical analysis laboratories (07.2.4);  laboratories engaged in determining the causes of disease (07.5.0).",""
+"07.5","R&D Health","Definitions of basic research, applied research and experimental development are given under (01.4) and (01.5).",""
+"07.5.0","R&D Health  (CS)","- Administration and operation of government agencies engaged in applied research and experimental development related to health;
+- grants, loans and subsidies to support applied research and experimental development related to health undertaken by non-government bodies such as research institutes and universities.
+Includes:  laboratories engaged in determining the causes of disease.
+Excludes:  basic research (01.4.0).",""
+"07.6","Health n.e.c.","",""
+"07.6.0","Health n.e.c.  (CS)","- Administration, operation or support of activities such as formulation, administration, coordination and monitoring of overall health policies, plans, programmes and budgets;  preparation and enforcement of legislation and standards for the provision of health services, including the licensing of medical establishments and medical and paramedical personnel;  production and dissemination of general information, technical documentation and statistics on health.
+Includes:  health affairs and services that cannot be assigned to (07.1), (07.2), (07.3), (07.4) or (07.5).",""
+"08","Recreation, culture and religion","Government outlays on recreation, culture and religion include expenditures on services provided to individual persons and households and expenditures on services provided on a collective basis.  Individual expenditures are allocated to groups (08.1) and (08.2);  expenditures on collective services are assigned to groups (08.3) to (08.6).
+Collective services are provided to the community as a whole.  They include activities such as formulation and administration of government policy;  formulation and enforcement of legislation and standards for providing recreational and cultural services;  and applied research and experimental development into recreational, cultural and religious affairs and services.",""
+"08.1","Recreational and sporting services","",""
+"08.1.0","Recreational and sporting services  (IS)","- Provision of sporting and recreational services;  administration of sporting and recreational affairs;  supervision and regulation of sporting facilities;
+- operation or support of facilities for active sporting pursuits or events (playing fields, tennis courts, squash courts, running tracks, golf courses, boxing rings, skating rinks, gymnasia, etc.);  operation or support of facilities for passive sporting pursuits or events (chiefly specially equipped venues for playing cards, board games, etc.);  operation or support of facilities for recreational pursuits (parks, beaches, camping grounds and associated lodging places furnished on a non-commercial basis, swimming pools, public baths for washing, etc.);
+- grants, loans or subsidies to support teams or individual competitors or players.
+Includes:  facilities for spectator accommodation;  national, regional or local team representation in sporting events.
+Excludes:  zoological or botanical gardens, aquaria, arboreta and similar institutions (08.2.0);  sporting and recreational facilities associated with educational institutions (classified to the appropriate class of Division 09).",""
+"08.2","Cultural services","",""
+"08.2.0","Cultural services  (IS)","- Provision of cultural services;  administration of cultural affairs;  supervision and regulation of cultural facilities;
+- operation or support of facilities for cultural pursuits (libraries, museums, art galleries, theatres, exhibition halls, monuments, historic houses and sites, zoological and botanical gardens, aquaria, arboreta, etc.);  production, operation or support of cultural events (concerts, stage and film productions, art shows, etc.);
+- grants, loans or subsidies to support individual artists, writers, designers, composers and others working in the arts or to organizations engaged in promoting cultural activities.
+Includes:  national, regional or local celebrations provided they are not intended chiefly to attract tourists.
+Excludes:  cultural events intended for presentation beyond national boundaries (01.1.3);  national, regional or local celebrations intended chiefly to attract tourists (04.7.3);  production of cultural material intended for distribution by broadcasting (08.3.0).",""
+"08.3","Broadcasting and publishing services","",""
+"08.3.0","Broadcasting and publishing services  (CS)","- Administration of broadcasting and publishing affairs;  supervision and regulation of broadcasting and publishing services;
+- operation or support of broadcasting and publishing services;
+- grants, loans or subsidies to support:  the construction or acquisition of facilities for television or radio broadcasting;  the construction or acquisition of plant, equipment or materials for newspaper, magazine or book publishing;  the production of material for, and its presentation by, broadcasting;  the gathering of news or other information;  the distribution of published works.
+Excludes:  government printing offices and plants (01.3.3);  provision of education by radio or television broadcasting (09).",""
+"08.4","Religious and other community services","",""
+"08.4.0","Religious and other community services  (CS)","- Administration of religious and other community affairs;
+- provision of facilities for religious and other community services, including support for their operation, maintenance and repair;
+- payment of clergy or other officers of religious institutions;  support for the holding of religious services;  grants, loans or subsidies to support fraternal, civic, youth and social organizations or labour unions and political parties.",""
+"08.5","R&D Recreation, culture and religion","Definitions of basic research, applied research and experimental development are given under (01.4) and (01.5).",""
+"08.5.0","R&D Recreation, culture and religion  (CS)","- Administration and operation of government agencies engaged in applied research and experimental development related to recreation, culture and religion;
+- grants, loans and subsidies to support applied research and experimental development related to recreation, culture and religion undertaken by non-government bodies such as research institutes and universities.
+Excludes:  basic research (01.4.0).",""
+"08.6","Recreation, culture and religion n.e.c.","",""
+"08.6.0","Recreation, culture and religion n.e.c.  (CS)","- Administration, operation or support of activities such as formulation, administration, coordination and monitoring of overall policies, plans, programmes and budgets for the promotion of sport, recreation, culture and religion;  preparation and enforcement of legislation and standards for the provision of recreational and cultural services;  production and dissemination of general information, technical documentation and statistics on recreation, cultural and religion.
+Includes:  affairs and services relating to recreation, culture and religion that cannot be assigned to (08.1), (08.2), (08.3), (08.4) or (08.5).",""
+"09","Education","Government outlays on education include expenditures on services provided to individual pupils and students and expenditures on services provided on a collective basis.  Expenditures on individual services are allocated to groups (09.1) through (09.6);  expenditures on collective services are assigned to groups (09.7) and (09.8).
+Collective educational services are concerned with matters such as formulation and administration of government policy;  setting and enforcement of standards;  regulation, licensing and supervision of educational establishments;  and applied research and experimental development into education affairs and services.  However, overhead expenses connected with administration or functioning of a group of schools, colleges, etc. are considered to be individual expenditures and are classified to groups (09.1) through (09.6) as appropriate.
+The breakdown of education is based upon the level categories of the 1997 International Standard Classification of Education (ISCED-97) of the United Nations Educational, Scientific and Cultural Organization (UNESCO).
+This division includes military schools and colleges where curricula resemble those of civilian institutions, police colleges offering general education in addition to police training and the provision of education by radio or television broadcasting.  Expenditures so incurred are classified to groups (09.1) to (09.5) as appropriate.",""
+"09.1","Pre-primary and primary education","",""
+"09.1.1","Pre-primary education  (IS)","- Provision of pre-primary education at ISCED-97 level 0;
+- administration, inspection, operation or support of schools and other institutions providing pre-primary education at ISCED-97 level 0.
+Excludes:  subsidiary services to education (09.6.0).",""
+"09.1.2","Primary education  (IS)","- Provision of primary education at ISCED-97 level 1;
+- administration, inspection, operation or support of schools and other institutions providing primary education at ISCED-97 level 1.
+Includes:  literacy programmes for students too old for primary school.
+Excludes:  subsidiary services to education (09.6.0).",""
+"09.2","Secondary education","",""
+"09.2.1","Lower-secondary education  (IS)","- Provision of lower-secondary education at ISCED-97 level 2;
+- administration, inspection, operation or support of schools and other institutions providing lower-secondary education at ISCED-97 level 2;
+- scholarships, grants, loans and allowances to support pupils pursuing lower-secondary education at ISCED-97 level 2.
+Includes:  out-of-school lower-secondary education for adults and young people.
+Excludes:  subsidiary services to education (09.6.0).",""
+"09.2.2","Upper-secondary education  (IS)","- Provision of upper-secondary education at ISCED-97 level 3;
+- administration, inspection, operation or support of schools and other institutions providing upper-secondary education at ISCED-97 level 3;
+- scholarships, grants, loans and allowances to support pupils pursuing upper-secondary education at ISCED-97 level  3.
+Includes:  out-of-school upper-secondary education for adults and young people.
+Excludes:  subsidiary services to education (09.6.0).",""
+"09.3","Post-secondary non-tertiary education","",""
+"09.3.0","Post-secondary non-tertiary education  (IS)","- Provision of post-secondary non-tertiary education at ISCED-97 level 4;
+- administration, inspection, operation or support of institutions providing post-secondary non-tertiary education at ISCED-97 level 4;
+- scholarships, grants, loans and allowances to support students pursuing post-secondary non-tertiary education at ISCED-97 level 4.
+Includes:  out-of-school post-secondary non-tertiary education for adults and young people.
+Excludes:  subsidiary services to education (09.6.0).",""
+"09.4","Tertiary education","",""
+"09.4.1","First stage of tertiary education  (IS)","- Provision of tertiary education at ISCED-97 level 5;
+- administration, inspection, operation or support of universities and other institutions providing tertiary education at ISCED-97 level 5;
+- scholarships, grants, loans and allowances to support students pursuing tertiary education at ISCED-97 level 5.
+Excludes:  subsidiary services to education (09.6.0).",""
+"09.4.2","Second stage of tertiary education  (IS)","- Provision of tertiary education at ISCED-97 level 6;
+- administration, inspection, operation or support of universities and other institutions providing tertiary education at ISCED-97 level 6;
+- scholarships, grants, loans and allowances to support students pursuing tertiary education at ISCED-97 level 6.
+Excludes:  subsidiary services to education (09.6.0).",""
+"09.5","Education not definable by level","",""
+"09.5.0","Education not definable by level  (IS)","- Provision of education not definable by level (that is, educational programmes, generally for adults, which do not require any special prior instruction, in particular vocational training and cultural development);
+- administration, inspection, operation or support of institutions providing education not definable by level;
+- scholarships, grants, loans and allowances to support students pursuing education programmes not definable by level.",""
+"09.6","Subsidiary services to education","",""
+"09.6.0","Subsidiary services to education  (IS)","- Provision of subsidiary services to education;
+- administration, inspection, operation or support of transportation, food, lodging, medical and dental care and related subsidiary services chiefly for students regardless of level.
+Excludes:  school health monitoring and prevention services (07.4.0);  scholarships, grants, loans and allowances in cash to defray the costs of subsidiary services (09.1), (09.2), (09.3), (09.4) or (09.5).",""
+"09.7","R&D Education","Definitions of basic research, applied research and experimental development are given under (01.4) and (01.5).",""
+"09.7.0","R&D Education  (CS)","- Administration and operation of government agencies engaged in applied research and experimental development related to education;
+- grants, loans and subsidies to support applied research and experimental development related to education undertaken by non-government bodies such as research institutes and universities.
+Excludes:  basic research (01.4.0).",""
+"09.8","Education n.e.c.","",""
+"09.8.0","Education n.e.c.  (CS)","- Administration, operation or support of activities such as formulation, administration, coordination and monitoring of overall educational policies, plans, programmes and budgets;  preparation and enforcement of legislation and standards for the provision of education, including licensing of educational establishments;  production and dissemination of general information, technical documentation and statistics on education.
+Includes:  education affairs and services that cannot be assigned to (09.1), (09.2), (09.3), (09.4), (09.5), (09.6) or (09.7).",""
+"10","Social protection","Government outlays on social protection include expenditures on services and transfers provided to individual persons and households and expenditures on services provided on a collective basis.  Expenditures on individual services and transfers are allocated to groups (10.1) through (10.7);  expenditures on collective services are assigned to groups (10.8) and (10.9).
+Collective social protection services are concerned with matters such as formulation and administration of government policy;  formulation and enforcement of legislation and standards for providing social protection;  and applied research and experimental development into social protection affairs and services.
+The social protection functions and their definitions are based on the 1996 European System of integrated Social Protection Statistics (ESSPROS) of the Statistical Office of the European Communities (Eurostat).
+In ESSPROS, social protection includes health care, but this division does not include health care.  Health care is covered by Division 07.  Hence, medical goods and services provided to persons who receive the cash benefits and benefits in kind specified in groups (10.1) through (10.7) are classified under (07.1), (07.2) or (07.3) as appropriate.",""
+"10.1","Sickness and disability","",""
+"10.1.1","Sickness  (IS)","- Provision of social protection in the form of cash benefits or benefits in kind that replace in whole or in part loss of earnings during a temporary inability to work due to sickness or injury;
+- administration, operation or support of such social protection schemes;
+- cash benefits, such as flat-rate or earnings-related sick leave payments, miscellaneous payments provided to help persons temporarily unable to work due to sickness or injury;
+- benefits in kind, such as assistance with daily tasks provided to persons temporarily unable to work due to sickness or injury (home help, transport facilities, etc.).",""
+"10.1.2","Disability  (IS)","- Provision of social protection in the form of cash benefits or benefits in kind to persons who are fully or partially unable to engage in economic activity or lead a normal life due to a physical or mental impairment that is either permanent or likely to persist beyond a minimum prescribed period;
+- administration, operation or support of such social protection schemes;
+- cash benefits, such as disability pensions paid to persons below the standard retirement age who encounter a disability which impairs their ability to work, early retirement benefits paid to older workers who retire before reaching the standard retirement age due to reduced capacity to work, care allowances, allowances paid to disabled persons undertaking work adapted to their condition or undergoing vocational training, other periodic or lump-sum payments paid to disabled persons for social protection reasons;
+- benefits in kind, such as lodging and possibly board provided to disabled persons in appropriate establishments, assistance provided to disabled persons to help them with daily tasks (home help, transport facilities etc.), allowances paid to the person who looks after the disabled person, vocational and other training provided to further the occupational and social rehabilitation of disabled persons, miscellaneous services and goods provided to disabled persons to enable them to participate in leisure and cultural activities or to travel or to participate in community life.
+Excludes:  cash benefits and benefits in kind paid to disabled persons on reaching the standard retirement age (10.2.0).",""
+"10.2","Old age","",""
+"10.2.0","Old age  (IS)","- Provision of social protection in the form of cash benefits and benefits in kind against the risks linked to old age (loss of income, inadequate income, lack of independence in carrying out daily tasks, reduced participation in social and community life, etc.);
+- administration, operation or support of such social protection schemes;
+- cash benefits, such as old-age pensions paid to persons on reaching the standard retirement age, anticipated old-age pensions paid to older workers who retire before the standard retirement age, partial retirement pensions paid either before or after the standard retirement age to older workers who continue working but reduce their working hours, care allowances, other periodic or lump-sum payments paid upon retirement or on account of old age;
+- benefits in kind, such as lodging and sometimes board provided to elderly persons either in specialized institutions or staying with families in appropriate establishments, assistance provided to elderly persons to help them with daily tasks (home help, transport facilities etc.), allowances paid to the person who looks after an elderly person, miscellaneous services and goods provided to elderly persons to enable them to participate in leisure and cultural activities or to travel or to participate in community life.
+Includes:  pension schemes for military personnel and for government employees.
+Excludes:  early retirement benefits paid to older workers who retire before reaching standard retirement age due to disability (10.1.2) or unemployment (10.5.0).",""
+"10.3","Survivors","",""
+"10.3.0","Survivors  (IS)","- Provision of social protection in the form of cash benefits and benefits in kind to persons who are survivors of a deceased person (such as the person's spouse, ex-spouse, children, grandchildren, parents or other relatives);
+- administration, operation or support of such social protection schemes;
+- cash benefits, such as survivors' pensions, death grants, other periodic or lump-sum payments to survivors;
+- benefits in kind, such as payments towards funeral expenses, miscellaneous services and goods provided to survivors to enable them to participate in community life.",""
+"10.4","Family and children","",""
+"10.4.0","Family and children  (IS)","- Provision of social protection in the form of cash benefits and benefits in kind to households with dependent children;
+- administration, operation or support of such social protection schemes;
+- cash benefits, such as maternity allowances, birth grants, parental leave benefits, family or child allowances, other periodic or lump-sum payments to support households and help them meet the costs of specific needs (for example, those of the lone parent families or families with handicapped children);
+- benefits in kind, such as shelter and board provided to pre-school children during the day or part of the day, financial assistance towards payment of a nurse to look after children during the day, shelter and board provided to children and families on a permanent basis (orphanages, foster families, etc.), goods and services provided at home to children or to those who care for them, miscellaneous services and goods provided to families, young people or children (holiday and leisure centres).
+Excludes:  family planning services (07.4.0).",""
+"10.5","Unemployment","",""
+"10.5.0","Unemployment  (IS)","- Provision of social protection in the form of cash benefits and benefits in kind to persons who are capable of work, available for work but are unable to find suitable employment;
+- administration, operation or support of such social protection schemes;
+- cash benefits, such as full and partial unemployment benefits, early retirement benefits paid to older workers who retire before reaching the standard retirement age due to unemployment or job reduction caused by economic measures, allowances to targeted groups in the labour force who take part in training schemes intended to develop their potential for employment, redundancy compensation, other periodic or lump-sum payments to the unemployed, particularly the long-term unemployed;
+- benefits in kind, such as mobility and resettlement payments, vocational training provided to persons without a job or retraining provided to persons at risk of losing their job, accommodation, food or clothes provided to unemployed persons and their families.
+Excludes:  general programmes or schemes directed towards increasing labour mobility, reducing the rate of unemployment or promoting the employment of disadvantaged or other groups characterized by high unemployment (04.1.2);  cash benefits and benefits in kind paid to unemployed persons on reaching the standard retirement age (10.2.0).",""
+"10.6","Housing","",""
+"10.6.0","Housing  (IS)","- Provision of social protection in the form of benefits in kind to help households meet the cost of housing (recipients of these benefits are means-tested);
+- administration, operation or support of such social protection schemes;
+- benefits in kind, such as payments made on a temporary or long-term basis to help tenants with rent costs, payments to alleviate the current housing costs of owner-occupiers (that is to help with paying mortgages or interest), provision of low-cost or social housing.",""
+"10.7","Social exclusion n.e.c.","",""
+"10.7.0","Social exclusion n.e.c.  (IS)","- Provision of social protection in the form of cash benefits and benefits in kind to persons who are socially excluded or at risk of social exclusion (such as persons who are destitute, low-income earners, immigrants, indigenous people, refugees, alcohol and substance abusers, victims of criminal violence, etc.);
+- administration and operation of such social protection schemes;
+- cash benefits, such as income support and other cash payments to the destitute and vulnerable persons to help alleviate poverty or assist in difficult situations;
+- benefits in kind, such as short-term and long-term shelter and board provided to destitute and vulnerable persons, rehabilitation of alcohol and substance abusers, services and goods to help vulnerable persons such as counselling, day shelter, help with carrying out daily tasks, food, clothing, fuel, etc.",""
+"10.8","R&D Social protection","Definitions of basic research, applied research and experimental development are given under (01.4) and (01.5).",""
+"10.8.0","R&D Social protection  (CS)","- Administration and operation of government agencies engaged in applied research and experimental development related to social protection;
+- grants, loans and subsidies to support applied research and experimental development related to social protection undertaken by non-government bodies such as research institutes and universities.
+Excludes:  basic research (01.4.0).",""
+"10.9","Social protection n.e.c.","",""
+"10.9.0","Social protection n.e.c.  (CS)","- Administration, operation or support of activities such as formulation, administration, coordination and monitoring of overall social protection policies, plans, programmes and budgets;  preparation and enforcement of legislation and standards for the provision of social protection;  production and dissemination of general information, technical documentation and statistics on social protection.
+Includes:  provision of social protection in the form of cash benefits and benefits in kind to victims of fires, floods, earthquakes and other peacetime disasters;  purchase and storage of food, equipment and other supplies for emergency use in the case of peacetime disasters;  other social protection affairs and services that cannot be assigned to (10.1), (10.2), (10.3), (10.4), (10.5), (10.6), (10.7) or (10.8).",""
