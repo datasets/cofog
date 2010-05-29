@@ -57,8 +57,14 @@ def export_to_csv():
             pass
     open('cofog.csv', 'w').write(output) 
 
+def export_to_rdf(): 
+    '''Export COFOG csv to rdf.'''
+    from rdf import cofog_rdf
+    g = cofog_rdf(open('cofog.csv'))
+    outfile = 'cofog.n3'
+    g.serialize(open(outfile, 'w'), format='n3')
 
-from swiss.clitools import *
+from swiss.clitools import _main
 if __name__ == '__main__':
     _main(locals())
 
