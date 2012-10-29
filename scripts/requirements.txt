@@ -1,4 +1,3 @@
 # you also require mdbtools (apt-get install mdbtools on debian/ubuntu)
 BeautifulSoup
-swiss
--e .
+datautil
