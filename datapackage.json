@@ -22,7 +22,7 @@
     "Government", 
     "United Nations"
   ],
-  "data": [
+  "files": [
     {
       "path": "data/cofog.csv",
       "fields": [
