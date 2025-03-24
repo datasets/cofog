@@ -37,16 +37,20 @@
             "type": "string"
           },
           {
-            "name": "Description",
+            "name": "DescriptionEN",
+            "type": "string"
+          },
+          {
+            "name": "DescriptionFR",
+            "type": "string"
+          },
+          {
+            "name": "DescriptionES",
             "type": "string"
           },
           {
             "name": "ExplanatoryNote",
             "type": "string"
-          },
-          {
-            "name": "Change_date",
-            "type": "date"
           }
         ],
         "primaryKey": [
