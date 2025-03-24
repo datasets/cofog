@@ -4,6 +4,27 @@ Classification of the Functions of Government (COFOG) is a classification define
 
 These functions are designed to be general enough to apply to the government of different countries. The accounts of each country in the United Nations are presented under these categories. The value of this is that the accounts of different countries can be compared.
 
+## Preparation
+
+To prepare and process the COFOG data, follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/datasets/cofog.git
+cd cofog
+
+# Run make to process everything
+make all
+```
+
+This will:
+1. Install required dependencies
+2. Download and process explanatory notes
+3. Extract descriptions in multiple languages
+4. Merge all data into a single CSV file
+
+The final merged dataset will be available at `data/cofog.csv`.
+
 ## Data
 
 Data was sourced from the [UN site][un-cofog] ([raw access database from the UN][accessdb]) and extracted using the scripts found in the scripts directory of the source data package. In addition to the UN site, versions of COFOG can also be [found on Eurostat](http://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_CLS_DLD&StrNom=CL_COFOG99&StrLanguageCode=EN&StrLayoutCode=HIERARCHIC) with one advantage of the Eurostat data being the availability of additional languages (e.g. German).
