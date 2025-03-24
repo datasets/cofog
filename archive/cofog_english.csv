@@ -1,0 +1,189 @@
+Code,Description
+01,General public services
+01.1,"Executive and legislative organs, financial and fiscal affairs, external affairs"
+01.1.1,Executive and legislative organs  (CS)
+01.1.2,Financial and fiscal affairs  (CS)
+01.1.3,External affairs  (CS)
+01.2,Foreign economic aid
+01.2.1,Economic aid to developing countries and countries in transition  (CS)
+01.2.2,Economic aid routed through international organizations  (CS)
+01.3,General services
+01.3.1,General personnel services  (CS)
+01.3.2,Overall planning and statistical services  (CS)
+01.3.3,Other general services  (CS)
+01.4,Basic research
+01.4.0,Basic research  (CS)
+01.5,R&D General public services
+01.5.0,R&D General public services  (CS)
+01.6,General public services n.e.c.
+01.6.0,General public services n.e.c.  (CS)
+01.7,Public debt transactions
+01.7.0,Public debt transactions  (CS)
+01.8,Transfers of a general character between different levels of government
+01.8.0,Transfers of a general character between different levels of government  (CS)
+02,Defence
+02.1,Military defence
+02.1.0,Military defence  (CS)
+02.2,Civil defence
+02.2.0,Civil defence  (CS)
+02.3,Foreign military aid
+02.3.0,Foreign military aid  (CS)
+02.4,R&D Defence
+02.4.0,R&D Defence  (CS)
+02.5,Defence n.e.c.
+02.5.0,Defence n.e.c.  (CS)
+03,Public order and safety
+03.1,Police services
+03.1.0,Police services  (CS)
+03.2,Fire-protection services
+03.2.0,Fire-protection services  (CS)
+03.3,Law courts
+03.3.0,Law courts  (CS)
+03.4,Prisons
+03.4.0,Prisons  (CS)
+03.5,R&D Public order and safety
+03.5.0,R&D Public order and safety  (CS)
+03.6,Public order and safety n.e.c.
+03.6.0,Public order and safety n.e.c.  (CS)
+04,Economic affairs
+04.1,"General economic, commercial and labour affairs"
+04.1.1,General economic and commercial affairs  (CS)
+04.1.2,General labour affairs  (CS)
+04.2,"Agriculture, forestry, fishing and hunting"
+04.2.1,Agriculture  (CS)
+04.2.2,Forestry  (CS)
+04.2.3,Fishing and hunting  (CS)
+04.3,Fuel and energy
+04.3.1,Coal and other solid mineral fuels  (CS)
+04.3.2,Petroleum and natural gas  (CS)
+04.3.3,Nuclear fuel  (CS)
+04.3.4,Other fuels  (CS)
+04.3.5,Electricity  (CS)
+04.3.6,Non-electric energy  (CS)
+04.4,"Mining, manufacturing and construction"
+04.4.1,Mining of mineral resources other than mineral fuels  (CS)
+04.4.2,Manufacturing  (CS)
+04.4.3,Construction  (CS)
+04.5,Transport
+04.5.1,Road transport  (CS)
+04.5.2,Water transport  (CS)
+04.5.3,Railway transport  (CS)
+04.5.4,Air transport  (CS)
+04.5.5,Pipeline and other transport  (CS)
+04.6,Communication
+04.6.0,Communication  (CS)
+04.7,Other industries
+04.7.1,"Distributive trades, storage and warehousing  (CS)"
+04.7.2,Hotels and restaurants  (CS)
+04.7.3,Tourism  (CS)
+04.7.4,Multi-purpose development projects  (CS)
+04.8,R&D Economic affairs
+04.8.1,"R&D General economic, commercial and labour affairs  (CS)"
+04.8.2,"R&D Agriculture, forestry, fishing and hunting  (CS)"
+04.8.3,R&D Fuel and energy  (CS)
+04.8.4,"R&D Mining, manufacturing and construction  (CS)"
+04.8.5,R&D Transport  (CS)
+04.8.6,R&D Communication  (CS)
+04.8.7,R&D Other industries  (CS)
+04.9,Economic affairs n.e.c.
+04.9.0,Economic affairs n.e.c.  (CS)
+05,Environmental protection
+05.1,Waste management
+05.1.0,Waste management  (CS)
+05.2,Waste water management
+05.2.0,Waste water management  (CS)
+05.3,Pollution abatement
+05.3.0,Pollution abatement  (CS)
+05.4,Protection of biodiversity and landscape
+05.4.0,Protection of biodiversity and landscape  (CS)
+05.5,R&D Environmental protection
+05.5.0,R&D Environmental protection  (CS)
+05.6,Environmental protection n.e.c.
+05.6.0,Environmental protection n.e.c.  (CS)
+06,Housing and community amenities
+06.1,Housing development
+06.1.0,Housing development  (CS)
+06.2,Community development
+06.2.0,Community development  (CS)
+06.3,Water supply
+06.3.0,Water supply  (CS)
+06.4,Street lighting
+06.4.0,Street lighting  (CS)
+06.5,R&D Housing and community amenities
+06.5.0,R&D Housing and community amenities  (CS)
+06.6,Housing and community amenities n.e.c.
+06.6.0,Housing and community amenities n.e.c.  (CS)
+07,Health
+07.1,"Medical products, appliances and equipment"
+07.1.1,Pharmaceutical products  (IS)
+07.1.2,Other medical products  (IS)
+07.1.3,Therapeutic appliances and equipment  (IS)
+07.2,Outpatient services
+07.2.1,General medical services  (IS)
+07.2.2,Specialized medical services  (IS)
+07.2.3,Dental services  (IS)
+07.2.4,Paramedical services  (IS)
+07.3,Hospital services
+07.3.1,General hospital services  (IS)
+07.3.2,Specialized hospital services  (IS)
+07.3.3,Medical and maternity centre services  (IS)
+07.3.4,Nursing and convalescent home services  (IS)
+07.4,Public health services
+07.4.0,Public health services  (IS)
+07.5,R&D Health
+07.5.0,R&D Health  (CS)
+07.6,Health n.e.c.
+07.6.0,Health n.e.c.  (CS)
+08,"Recreation, culture and religion"
+08.1,Recreational and sporting services
+08.1.0,Recreational and sporting services  (IS)
+08.2,Cultural services
+08.2.0,Cultural services  (IS)
+08.3,Broadcasting and publishing services
+08.3.0,Broadcasting and publishing services  (CS)
+08.4,Religious and other community services
+08.4.0,Religious and other community services  (CS)
+08.5,"R&D Recreation, culture and religion"
+08.5.0,"R&D Recreation, culture and religion  (CS)"
+08.6,"Recreation, culture and religion n.e.c."
+08.6.0,"Recreation, culture and religion n.e.c.  (CS)"
+09,Education
+09.1,Pre-primary and primary education
+09.1.1,Pre-primary education  (IS)
+09.1.2,Primary education  (IS)
+09.2,Secondary education
+09.2.1,Lower-secondary education  (IS)
+09.2.2,Upper-secondary education  (IS)
+09.3,Post-secondary non-tertiary education
+09.3.0,Post-secondary non-tertiary education  (IS)
+09.4,Tertiary education
+09.4.1,First stage of tertiary education  (IS)
+09.4.2,Second stage of tertiary education  (IS)
+09.5,Education not definable by level
+09.5.0,Education not definable by level  (IS)
+09.6,Subsidiary services to education
+09.6.0,Subsidiary services to education  (IS)
+09.7,R&D Education
+09.7.0,R&D Education  (CS)
+09.8,Education n.e.c.
+09.8.0,Education n.e.c.  (CS)
+10,Social protection
+10.1,Sickness and disability
+10.1.1,Sickness  (IS)
+10.1.2,Disability  (IS)
+10.2,Old age
+10.2.0,Old age  (IS)
+10.3,Survivors
+10.3.0,Survivors  (IS)
+10.4,Family and children
+10.4.0,Family and children  (IS)
+10.5,Unemployment
+10.5.0,Unemployment  (IS)
+10.6,Housing
+10.6.0,Housing  (IS)
+10.7,Social exclusion n.e.c.
+10.7.0,Social exclusion n.e.c.  (IS)
+10.8,R&D Social protection
+10.8.0,R&D Social protection  (CS)
+10.9,Social protection n.e.c.
+10.9.0,Social protection n.e.c.  (CS)

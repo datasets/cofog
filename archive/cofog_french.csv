@@ -1,0 +1,189 @@
+Code,Description
+01,Services généraux des administrations publiques
+01.1,"Fonctionnement des organes exécutifs et législatifs, affaires financières et fiscales, affaires étrangères"
+01.1.1,Fonctionnement des organes exécutifs et législatifs (SC)
+01.1.2,Affaires financières et fiscales (SC)
+01.1.3,Affaires étrangères (SC)
+01.2,Aide économique extérieure
+01.2.1,Aide économique aux pays en développement ou en transition (SC)
+01.2.2,Aide économique par l'intermédiaire d'organisations internationales (SC)
+01.3,Services généraux
+01.3.1,Services généraux de personnel (SC)
+01.3.2,Services généraux de planification et de statistiques (SC)
+01.3.3,Autres services généraux (SC)
+01.4,Recherche fondamentale
+01.4.0,Recherche fondamentale (SC)
+01.5,R-D concernant des services généraux des administrations publiques (SC)
+01.5.0,R-D concernant les services généraux des administrations publiques (SC)
+01.6,Services généraux des administrations publiques n.c.a.
+01.6.0,Services généraux des administrations publiques n.c.a. (SC)
+01.7,Opérations concernant la dette publique
+01.7.0,Opérations concernant la dette publique (SC)
+01.8,Transferts de caractère général entre administrations publiques
+01.8.0,Transferts de caractère général entre administrations publiques (SC)
+02,Défense
+02.1,Défense militaire
+02.1.0,Défense militaire (SC)
+02.2,Défense civile
+02.2.0,Défense civile (SC)
+02.3,Aide militaire à des pays étrangers
+02.3.0,Aide militaire à des pays étrangers (SC)
+02.4,R-D concernant la défense
+02.4.0,R-D concernant la défense (SC)
+02.5,Défense n.c.a.
+02.5.0,Défense n.c.a. (SC)
+03,Ordre et sécurité publics
+03.1,Services de police
+03.1.0,Services de police (SC)
+03.2,Services de protection civile
+03.2.0,Services de protection civile (SC)
+03.3,Tribunaux
+03.3.0,Tribunaux (SC)
+03.4,Administration pénitentiaire
+03.4.0,Administration pénitentiaire (SC)
+03.5,R-D concernant l'ordre et la sécurité publics (SC)
+03.5.0,R-D concernant l'ordre et la sécurité publics (SC)
+03.6,Ordre et sécurité publics n.c.a.
+03.6.0,Ordre et sécurité publics n.c.a. (SC)
+04,Affaires économiques
+04.1,"Tutelle de l'économie générale, des échanges et de l'emploi"
+04.1.1,Tutelle de l'économie générale et des échanges (SC)
+04.1.2,Affaires générales concernant l'emploi (SC)
+04.2,"Agriculture, sylviculture, pêche et chasse"
+04.2.1,Agriculture (SC)
+04.2.2,Sylviculture (SC)
+04.2.3,Pêche et chasse (SC)
+04.3,Combustibles et énergie
+04.3.1,Charbon et autres combustibles minéraux solides (SC)
+04.3.2,Pétrole et gaz naturel (SC)
+04.3.3,Combustible nucléaire (SC)
+04.3.4,Autres combustibles (SC)
+04.3.5,Électricité (SC)
+04.3.6,Énergie non électrique (SC)
+04.4,"Industries extractives et manufacturières, construction"
+04.4.1,Extraction de ressources minérales autres que les combustibles minéraux (SC)
+04.4.2,Industries manufacturières (SC)
+04.4.3,Construction (SC)
+04.5,Transports
+04.5.1,Transports routiers (SC)
+04.5.2,Transports par voie d'eau (SC)
+04.5.3,Transports par voie ferrée (SC)
+04.5.4,Transports aériens (SC)
+04.5.5,Pipelines et systèmes de transport divers (SC)
+04.6,Communications
+04.6.0,Communications (SC)
+04.7,Autres branches d'activité
+04.7.1,"Distribution, entrepôts et magasins (SC)"
+04.7.2,Hôtellerie et restauration (SC)
+04.7.3,Tourisme (SC)
+04.7.4,Projets de développement polyvalents (SC)
+04.8,R-D concernant les affaires économiques
+04.8.1,"R-D concernant la tutelle de l'économie générale, des échanges et de l'emploi (SC)"
+04.8.2,"R-D concernant l'agriculture, la sylviculture, la pêche et la chasse (SC)"
+04.8.3,R-D concernant les combustibles et l'énergie (SC)
+04.8.4,R-D concernant les industries extractives et manufacturières et la construction (SC)
+04.8.5,R-D concernant les transports (SC)
+04.8.6,R-D concernant les communications (SC)
+04.8.7,R-D concernant d'autres branches d'activité (SC)
+04.9,Affaires économiques n.c.a.
+04.9.0,Affaires économiques n.c.a. (SC)
+05,Protection de l'environnement
+05.1,Gestion des déchets
+05.1.0,Gestion des déchets (SC)
+05.2,Gestion des eaux usées
+05.2.0,Gestion des eaux usées (SC)
+05.3,Lutte contre la pollution
+05.3.0,Lutte contre la pollution (SC)
+05.4,Préservation de la diversité biologique et protection de la nature
+05.4.0,Préservation de la diversité biologique et protection de la nature (SC)
+05.5,R-D dans le domaine de la protection de l'environnement
+05.5.0,R-D dans le domaine de la protection de l'environnement
+05.6,Protection de l'environnement n.c.a.
+05.6.0,Protection de l'environnement n.c.a. (SC)
+06,Logements et équipements collectifs
+06.1,Logements
+06.1.0,Logements (SC)
+06.2,Équipements collectifs
+06.2.0,Équipements collectifs (SC)
+06.3,Alimentation en eau
+06.3.0,Alimentation en eau (SC)
+06.4,Éclairage public
+06.4.0,Éclairage public (SC)
+06.5,R-D dans le domaine du logement et des équipements collectifs
+06.5.0,R-D dans le domaine du logement et des équipements collectifs (SC)
+06.6,Logement et équipements collectifs n.c.a.
+06.6.0,Logement et équipements collectifs n.c.a. (SC)
+07,Santé
+07.1,"Produits, appareils et matériels médicaux"
+07.1.1,Produits pharmaceutiques (SI)
+07.1.2,Produits médicaux divers (SI)
+07.1.3,Appareils et matériel thérapeutiques (SI)
+07.2,Services ambulatoires
+07.2.1,Services de médecine générale (SI)
+07.2.2,Services de médecine spécialisée (SI)
+07.2.3,Services dentaires (SI)
+07.2.4,Services paramédicaux (SI)
+07.3,Services hospitaliers
+07.3.1,Services hospitaliers généraux (SI)
+07.3.2,Services hospitaliers spécialisés (SI)
+07.3.3,Services des dispensaires et des maternités (SI)
+07.3.4,Services des maisons de repos et des maisons de santé (SI)
+07.4,Services de santé publique
+07.4.0,Services de santé publique (SI)
+07.5,R-D dans le domaine de la santé
+07.5.0,R-D dans le domaine de la santé (SC)
+07.6,Santé n.c.a.
+07.6.0,Santé n.c.a.
+08,"Loisirs, culture et culte"
+08.1,Services récréatifs et sportifs
+08.1.0,Services récréatifs et sportifs (SI)
+08.2,Services culturels
+08.2.0,Services culturels (SI)
+08.3,"Services de radiodiffusion, de télévision et d'édition"
+08.3.0,"Services de radiodiffusion, de télévision et d'édition (SC)"
+08.4,Culte et autres services communautaires
+08.4.0,Culte et autres services communautaires (SC)
+08.5,"R-D dans le domaine des loisirs, de la culture et du culte"
+08.5.0,"R-D dans le domaine des loisirs, de la culture et du culte (SC)"
+08.6,"Loisirs, culture et culte n.c.a."
+08.6.0,"Loisirs, culture et culte n.c.a. (SC)"
+09,Enseignement
+09.1,Enseignement préélémentaire et primaire
+09.1.1,Enseignement préélémentaire (SI)
+09.1.2,Enseignement primaire (SI)
+09.2,Enseignement secondaire
+09.2.1,Premier cycle de l'enseignement secondaire (SI)
+09.2.2,Deuxième cycle de l'enseignement secondaire (SI)
+09.3,Enseignement postsecondaire non supérieur
+09.3.0,Enseignement postsecondaire non supérieur (SI)
+09.4,Enseignement supérieur
+09.4.1,Enseignement supérieur non doctoral (SI)
+09.4.2,Enseignement supérieur doctoral (SI)
+09.5,Enseignement non défini par niveau
+09.5.0,Enseignement non défini par niveau (SI)
+09.6,Services annexes à l'enseignement
+09.6.0,Services annexes à l'enseignement (SI)
+09.7,R-D dans le domaine de l'enseignement
+09.7.0,R-D dans le domaine de l'enseignement (SC)
+09.8,Enseignement n.c.a.
+09.8.0,Enseignement n.c.a. (SC)
+10,Protection sociale
+10.1,Maladie et invalidité
+10.1.1,Maladie (SI)
+10.1.2,Invalidité (SI)
+10.2,Vieillesse
+10.2.0,Vieillesse (SI)
+10.3,Survivants
+10.3.0,Survivants (SI)
+10.4,Famille et enfants
+10.4.0,Famille et enfants (SI)
+10.5,Chômage
+10.5.0,Chômage (SI)
+10.6,Logement
+10.6.0,Logement (SI)
+10.7,Exclusion sociale n.c.a.
+10.7.0,Exclusion sociale n.c.a. (SI)
+10.8,R-D dans le domaine de la protection sociale
+10.8.0,R-D dans le domaine de la protection sociale (SC)
+10.9,Protection sociale n.c.a.
+10.9.0,Protection sociale n.c.a. (SC)

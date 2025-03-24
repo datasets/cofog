@@ -1,0 +1,189 @@
+Code,Description
+01,Servicios públicos generales
+01.1,"Órganos ejecutivos y legislativos, asuntos financieros y fiscales, asuntos exteriores"
+01.1.1,Órganos ejecutivos y legislativos (SC)
+01.1.2,Asuntos financieros y fiscales (SC)
+01.1.3,Asuntos exteriores (SC)
+01.2,Ayuda económica exterior
+01.2.1,Ayuda económica a los países en desarrollo y en transición (SC)
+01.2.2,Ayuda económica prestada a través de organizaciones internacionales (SC)
+01.3,Servicios generales
+01.3.1,Servicios generales de personal (SC)
+01.3.2,Servicios generales de planificación y estadística
+01.3.3,Otros servicios generales (SC)
+01.4,Investigación básica
+01.4.0,Investigación básica (SC)
+01.5,Investigación y desarrollo relacionados con los servicios públicos generales
+01.5.0,Investigación y desarrollo relacionados con los servicios públicos generales (SC)
+01.6,Servicios públicos generales n.e.p.
+01.6.0,Servicios públicos generales n.e.p. (SC)
+01.7,Transacciones de la deuda pública
+01.7.0,Transacciones de la deuda pública (SC)
+01.8,Transferencias de carácter general entre diferentes niveles de gobierno
+01.8.0,Transferencias de carácter general entre diferentes niveles de gobierno (SC)
+02,Defensa
+02.1,Defensa militar
+02.1.0,Defensa militar (SC)
+02.2,Defensa civil
+02.2.0,Defensa civil (SC)
+02.3,Ayuda militar al exterior
+02.3.0,Ayuda militar al exterior (SC)
+02.4,Investigación y desarrollo relacionados con la defensa
+02.4.0,Investigación y desarrollo relacionados con la defensa (SC)
+02.5,Defensa n.e.p.
+02.5.0,Defensa n.e.p. (SC)
+03,Orden público y seguridad
+03.1,Servicios de policía
+03.1.0,Servicios de policía (SC)
+03.2,Servicios de protección contra incendios
+03.2.0,Servicios de protección contra incendios (SC)
+03.3,Tribunales de justicia
+03.3.0,Tribunales de justicia (SC)
+03.4,Prisiones
+03.4.0,Prisiones (SC)
+03.5,Investigación y desarrollo relacionados con el orden público y la seguridad
+03.5.0,Investigación y desarrollo relacionados con el orden público y la seguridad (SC)
+03.6,Orden público y seguridad n.e.p.
+03.6.0,Orden público y seguridad n.e.p. (SC)
+04,Asuntos económicos
+04.1,"Asuntos económicos, comerciales y laborales en general"
+04.1.1,Asuntos económicos y comerciales en general (SC)
+04.1.2,Asuntos laborales generales (SC)
+04.2,"Agricultura, silvicultura, pesca y caza"
+04.2.1,Agricultura (SC)
+04.2.2,Silvicultura (SC)
+04.2.3,Pesca y caza (SC)
+04.3,Combustibles y energía
+04.3.1,Carbón y otros combustibles minerales sólidos (SC)
+04.3.2,Petróleo y gas natural (SC)
+04.3.3,Combustibles nucleares (SC)
+04.3.4,Otros combustibles (SC)
+04.3.5,Electricidad (SC)
+04.3.6,Energía no eléctrica (SC)
+04.4,"Minería, manufacturas y construcción"
+04.4.1,Extracción de recursos minerales excepto los combustibles minerales (SC)
+04.4.2,Manufacturas (SC)
+04.4.3,Construcción (SC)
+04.5,Transporte
+04.5.1,Transporte por carretera (SC)
+04.5.2,Transporte por agua (SC)
+04.5.3,Transporte por ferrocarril (SC)
+04.5.4,Transporte aéreo (SC)
+04.5.5,Transporte por oleoductos y gasoductos y otros sistemas de transporte
+04.6,Comunicaciones
+04.6.0,Comunicaciones (SC)
+04.7,Otras industrias
+04.7.1,"Comercio de distribución, almacenamiento y depósito (SC)"
+04.7.2,Hoteles y restaurantes (SC)
+04.7.3,Turismo (SC)
+04.7.4,Proyectos de desarrollo polivalentes (SC)
+04.8,Investigación y desarrollo relacionados con asuntos económicos
+04.8.1,"Investigación y desarrollo relacionados con asuntos económicos, comerciales y laborales en general (SC)"
+04.8.2,"Investigación y desarrollo relacionados con agricultura, silvicultura, pesca y caza (SC)"
+04.8.3,Investigación y desarrollo relacionados con combustibles y energía (SC)
+04.8.4,"Investigación y desarrollo relacionados con minería, manufacturas y construcción (SC)"
+04.8.5,Investigación y desarrollo relacionados con el transporte (SC)
+04.8.6,Investigación y desarrollo relacionados con las comunicaciones (SC)
+04.8.7,Investigación y desarrollo relacionados con otras industrias (SC)
+04.9,Asuntos económicos n.e.p.
+04.9.0,Asuntos económicos n.e.p. (SC)
+05,Protección del medio ambiente
+05.1,Ordenación de desechos
+05.1.0,Ordenación de desechos (SC)
+05.2,Ordenación de aguas residuales
+05.2.0,Ordenación de las aguas residuales (SC)
+05.3,Reducción de la contaminación
+05.3.0,Reducción de la contaminación (SC)
+05.4,Protección de la diversidad biológica y del paisaje
+05.4.0,Protección de la diversidad biológica y del paisaje (SC)
+05.5,Investigación y desarrollo relacionados con la protección del medio ambiente
+05.5.0,Investigación y desarrollo relacionados con la protección del medio ambiente (SC)
+05.6,Protección del medio ambiente n.e.p.
+05.6.0,Protección del medio ambiente n.e.p. (SC)
+06,Vivienda y servicios comunitarios
+06.1,Urbanización
+06.1.0,Urbanización (SC)
+06.2,Desarrollo comunitario
+06.2.0,Desarrollo comunitario (SC)
+06.3,Abastecimiento de agua
+06.3.0,Abastecimiento de agua
+06.4,Alumbrado público
+06.4.0,Alumbrado público (SC)
+06.5,Investigación y desarrollo relacionados con la vivienda y los servicios comunitarios
+06.5.0,Investigación y desarrollo relacionados con la vivienda y los servicios comunitarios (SC)
+06.6,Vivienda y servicios comunitarios n.e.p.
+06.6.0,Vivienda y servicios comunitarios n.e.p. (SC)
+07,Salud
+07.1,"Productos, útiles y equipo médicos"
+07.1.1,Productos farmacéuticos (SI)
+07.1.2,Otros productos médicos (SI)
+07.1.3,Aparatos y equipos terapéuticos (SI)
+07.2,Servicios para pacientes externos
+07.2.1,Servicios médicos generales (SI)
+07.2.2,Servicios médicos especializados (SI)
+07.2.3,Servicios odontológicos (SI)
+07.2.4,Servicios paramédicos (SI)
+07.3,Servicios hospitalarios
+07.3.1,Servicios hospitalarios generales (SI)
+07.3.2,Servicios hospitalarios especializados (SI)
+07.3.3,Servicios médicos y de centros de maternidad (SI)
+07.3.4,Servicios de residencias de la tercera edad y residencias de convalecencia (SI)
+07.4,Servicios de salud pública
+07.4.0,Servicios de salud pública (SI)
+07.5,Investigación y desarrollo relacionados con la salud
+07.5.0,Investigación y desarrollo relacionados con la salud (SC)
+07.6,Salud n.e.p.
+07.6.0,Salud n.e.p. (SC)
+08,"Actividades recreativas, cultura y religión"
+08.1,Servicios recreativos y deportivos
+08.1.0,Servicios recreativos y deportivos (SI)
+08.2,Servicios culturales
+08.2.0,Servicios culturales (SI)
+08.3,Servicios de radio y televisión y servicios editoriales
+08.3.0,Servicios de radio y televisión y servicios editoriales (SC)
+08.4,Servicios religiosos y otros servicios comunitarios
+08.4.0,Servicios religiosos y otros servicios comunitarios (SC)
+08.5,"Investigación y desarrollo relacionados con esparcimiento, cultura y religión"
+08.5.0,"Investigación y desarrollo relacionados con esparcimiento, cultura y religión"
+08.6,"Actividades recreativas, cultura y religión n.e.p."
+08.6.0,"Actividades recreativas, cultura y religión n.e.p. (SC)"
+09,Educación
+09.1,Enseñanza preescolar y enseñanza primaria
+09.1.1,Enseñanza preescolar (SI)
+09.1.2,Enseñanza primaria (SI)
+09.2,Enseñanza secundaria
+09.2.1,Enseñanza secundaria básica (SI)
+09.2.2,Enseñanza secundaria avanzada (SI)
+09.3,Enseñanza postsecundaria no terciaria
+09.3.0,Enseñanza postsecundaria no terciaria (SI)
+09.4,Enseñanza terciaria
+09.4.1,Primera etapa de la enseñanza terciaria (SI)
+09.4.2,Segunda etapa de la enseñanza terciaria (SI)
+09.5,Enseñanza no atribuible a ningún nivel
+09.5.0,Enseñanza no atribuible a ningún nivel (SI)
+09.6,Servicios auxiliares de la educación
+09.6.0,Servicios auxiliares de la educación (SI)
+09.7,Investigación y desarrollo relacionados con la educación
+09.7.0,Investigación y desarrollo relacionados con la educación (SC)
+09.8,Enseñanza n.e.p.
+09.8.0,Enseñanza n.e.p. (SC)
+10,Protección social
+10.1,Enfermedad e incapacidad
+10.1.1,Enfermedad (SI)
+10.1.2,Incapacidad (SI)
+10.2,Edad avanzada
+10.2.0,Edad avanzada (SI)
+10.3,Supérstites
+10.3.0,Supérstites (SI)
+10.4,Familia e hijos
+10.4.0,Familia e hijos (SI)
+10.5,Desempleo
+10.5.0,Desempleo (SI)
+10.6,Vivienda
+10.6.0,Vivienda (SI)
+10.7,Exclusión social n.e.p.
+10.7.0,Exclusión social n.e.p. (SI)
+10.8,Investigación y desarrollo relacionados con la protección social
+10.8.0,Investigación y desarrollo relacionados con la protección social (SC)
+10.9,Protección social n.e.p.
+10.9.0,Protección social n.e.p. (SC)
